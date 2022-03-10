@@ -1,0 +1,12 @@
+{
+	"name": "greeter-bot",
+	"version": "1.0.0",
+	"description": "My First Discord Bot",
+	"main": "bot.js",
+	"author": "Arleana",
+	"dependencies": {
+		"discord.js": "^13.6.0",
+		"dotenv": "^16.0.0",
+		"https": "^1.0.0"
+	}
+}
